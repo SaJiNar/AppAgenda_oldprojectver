@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo_electronico">Correo electronico:</string>
+    <string name="btnGuarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+    <string name="btnParaGuardar">Guardar Datos</string>
+    <string name="nombre_persona">Nombre:</string>
+    <string name="DNI">DNI:</string>
+    <string name="email">Correo electrónico:</string>
+</resources>
